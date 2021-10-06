@@ -1,3 +1,7 @@
+# Modules
 fwconsole ma installall # install all models from the repos and upgrade all installed modules
 
 fwconsole chown # This will change ownership of all files and directories that FreePBX needs to be owned by the apache user
+
+# System
+yum update # System Updates
